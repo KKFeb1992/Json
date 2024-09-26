@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#389f7c",
+        "marker-size": "large",
+        "marker-symbol": "communications-tower"
+      },
+      "geometry": {
+        "coordinates": [
+          12.4898650451795,
+          42.88562181044762
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e51f1f",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop"
+      },
+      "geometry": {
+        "coordinates": [
+          15.07441402184,
+          41.312133521565045
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    }
+  ]
+}
