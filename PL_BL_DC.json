@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+24.222466,
+56.953128
+],
+        "type": "Point"
+      },
+      "id": 36
+ },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+24.606015,
+59.448495
+],
+        "type": "Point"
+      },
+      "id": 37
+ },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+23.88923,
+54.83376
+],
+        "type": "Point"
+      },
+      "id": 39
+ },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+23.93093,
+54.922625
+],
+        "type": "Point"
+      },
+      "id": 40
+ },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+24.027128,
+54.940538
+],
+        "type": "Point"
+      },
+      "id": 41
+ },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+19.175262,
+50.192817
+],
+        "type": "Point"
+      },
+      "id": 156
+ },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+18.048756,
+53.115101
+],
+        "type": "Point"
+      },
+      "id": 161
+ },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+19.386395,
+51.888
+],
+        "type": "Point"
+      },
+      "id": 167
+ },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+17.021725,
+52.329775
+],
+        "type": "Point"
+      },
+      "id": 170
+ },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [
+16.48559,
+51.129195
+],
+        "type": "Point"
+      },
+      "id": 171
+ }
+
+  ]
+}
