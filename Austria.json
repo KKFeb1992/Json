@@ -19,7 +19,7 @@
 {
       "type": "Feature",
       "properties": {
-        "marker-color": "#D64550",
+        "marker-color": "#0D11EF",
         "marker-size": "large"
       },
       "geometry": {
